@@ -17,30 +17,6 @@ Welcome to my GitHub! I am a B.S. candidate in Computer Science & Engineering wi
 ---
 
 ## 🔥 **Highlighted Projects**
-1. **AI-Driven Defect Detection**
-   - **Overview**: Developed AI solutions for early defect detection and predictive maintenance in production machinery.
-   - **Skills Used**: Python, Machine Learning
-   - **Impact**: Enhanced reliability and efficiency of industrial equipment by reducing downtime.
-
-2. **Data Visualization Project**
-   - **Overview**: Analyzed text datasets and created compelling visualizations using Word Cloud.
-   - **Skills Used**: Python, Jupyter Notebook, Anaconda
-   - **Field**: Computational Sociology
-
-3. **User Interface Group Research**
-   - **Topic**: "Character Artificial Intelligence and Its Psychological Influence"
-   - **Focus**: Explored the potential of character AI as a replacement for traditional therapy.
-
-4. **Final Advanced Course Projects**
-   - Machine Learning
-   - Digital Image Processing
-   - Wireless Sensor Networks (WSN)
-   - Compiler Design
-
----
-
-## 🚀 **My Projects**
-
 ### [IMDb Top 1000 Data Visualization](https://github.com/BitaBloom/imdb-top-1000-visualization)
 - **Description**: An analysis and visualization project based on the IMDb Top 1000 movies dataset. Highlights genre popularity trends and key insights over time.
 - **Technologies**: Python, Matplotlib, Seaborn, Plotly
@@ -48,6 +24,10 @@ Welcome to my GitHub! I am a B.S. candidate in Computer Science & Engineering wi
 ### [County Health Rankings Analysis](https://github.com/BitaBloom/county-health-analysis)
 - **Description**: Machine learning analysis of 2018 County Health Rankings to identify key health factors influencing outcomes across U.S. counties.
 - **Technologies**: Python, Scikit-learn, Pandas, Matplotlib
+
+### [Bitcoin Trust Network Analysis](https://github.com/BitaBloom/bitcoin-trust-network-analysis)
+- **Description**: Analyzes the Bitcoin Alpha trust-weighted signed network to evaluate trader trustworthiness. Includes network analysis using Gephi and text analysis of IMDb reviews.
+- **Technologies**: Python, Gephi, Gensim, PyLDAvis
 
 ---
 
