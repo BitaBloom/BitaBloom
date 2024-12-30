@@ -8,8 +8,8 @@ Welcome to my GitHub! I am a B.S. candidate in Computer Science & Engineering wi
 
 ## 📚 **About Me**
 - **Education**:
-  - B.S. in Computer Science & Engineering, Northwestern Polytechnical University
-  - B.A. in Japanese Language and Literature, University of Tehran
+  - B.S. in Computer Science & Engineering, Northwestern Polytechnical University (GPA: 3.2/4.0)
+  - B.A. in Japanese Language and Literature, University of Tehran (GPA: 19.06/20)
 - **Languages**: Farsi (Native), English (Fluent), Japanese (Fluent, JLPT N3), Mandarin (Basic, HSK 3), Korean (Elementary)
 - **Programming Skills**: Python, R, C, HTML & CSS, Java
 - **Key Interests**: AI-driven defect detection, data visualization, and generative AI.
@@ -39,6 +39,18 @@ Welcome to my GitHub! I am a B.S. candidate in Computer Science & Engineering wi
 
 ---
 
+## 🚀 **My Projects**
+
+### [IMDb Top 1000 Data Visualization](https://github.com/BitaBloom/imdb-top-1000-visualization)
+- **Description**: An analysis and visualization project based on the IMDb Top 1000 movies dataset. Highlights genre popularity trends and key insights over time.
+- **Technologies**: Python, Matplotlib, Seaborn, Plotly
+
+### [County Health Rankings Analysis](https://github.com/BitaBloom/county-health-analysis)
+- **Description**: Machine learning analysis of 2018 County Health Rankings to identify key health factors influencing outcomes across U.S. counties.
+- **Technologies**: Python, Scikit-learn, Pandas, Matplotlib
+
+---
+
 ## 🏆 **Achievements**
 - 2nd Place, Japanese Speech Contest (Embassy of Japan in Iran, 2017)
 - Country Representative, 2023 Culture Bridge Festival (NPU)
@@ -52,7 +64,7 @@ Welcome to my GitHub! I am a B.S. candidate in Computer Science & Engineering wi
 
 ---
 
-## 📫 **Get in Touch**
+## 📧 **Get in Touch**
 - **Email**: bita.nf@gmail.com
 - **LinkedIn**: [Bita Farahmand](https://linkedin.com/in/bita-farahmand-58363a232/)
 - **Location**: Xi'an, Shaanxi, China
